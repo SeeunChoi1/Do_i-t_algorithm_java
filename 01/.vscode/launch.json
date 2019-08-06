@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Max3",
+            "request": "launch",
+            "mainClass": "Max3"
+        }
+    ]
+}

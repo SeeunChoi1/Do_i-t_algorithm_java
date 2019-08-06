@@ -1,0 +1,23 @@
+1. bubble sort
+https://www.youtube.com/watch?v=lyZQPjUT5B4
+2. insertion sort
+https://www.youtube.com/watch?v=ROalU379l3U&t=96s
+3. shell sort
+https://www.youtube.com/watch?v=CmPA7zE8mx0
+4. quick sort
+https://www.youtube.com/watch?v=ywWBy6J5gz8
+5. merge sort
+https://www.youtube.com/watch?v=XaqR3G_NVoo
+- merge vs quick 
+https://www.youtube.com/watch?v=es2T6KY45cA
+6. heap sort
+https://www.youtube.com/watch?v=Xw2D9aJRBY4
+- heap vs merge
+https://www.youtube.com/watch?v=H5kAcmGOn4Q
+
+
+insertion vs merge
+https://www.youtube.com/watch?v=TZRWRjq2CAg&list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP&index=8&t=0s
+
+quick vs bubble
+https://www.youtube.com/watch?v=aXXWXz5rF64&list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP&index=3&t=0s
